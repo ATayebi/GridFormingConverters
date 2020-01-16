@@ -1,6 +1,6 @@
 This repository contains the SIMULINK models and MATLAB codes used as a benchmark system in the paper:
 
-A. Tayyebi, D. Groß, A. Anta and F. Dörfler, "Interactions of Grid-Forming Power Converters and Synchronous Machines – A Comparative Study" (available on arXiv: https://arxiv.org/pdf/1902.10750v2.pdf)
+A. Tayyebi, D. Groß, A. Anta, F. Kupzog and F. Dörfler, "Frequency Stability of Synchronous Machines and Grid-Forming Power Converters" (available on IEEE Xplore: https://ieeexplore.ieee.org/document/8959148)
 
 droop.m, VSM.m, matching.m and dVOC.m respectively generate the underlying data for the IEEE 9 bus test system including droop, VSM, matching and 
 dVOC controlled grid-forming converters.
