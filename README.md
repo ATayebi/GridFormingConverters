@@ -14,3 +14,6 @@ This source code is distributed in the hope that it will be useful, but without 
 We do request that publications in which this testbed is adopted, explicitly acknowledge that fact by citing the above mentioned paper.
 
 For further information do not hesitate to contact us: ali.tayyebi-khameneh@ait.ac.at
+
+The related publications and presentations are also publicaly available online:
+https://www.researchgate.net/project/Grid-Forming-Converter-Control-Design-Applications-in-Low-Inertia-Power-System
