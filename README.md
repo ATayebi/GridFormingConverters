@@ -15,5 +15,5 @@ We do request that publications in which this testbed is adopted, explicitly ack
 
 For further information do not hesitate to contact us: ali.tayyebi-khameneh@ait.ac.at
 
-The related publications and presentations are also publicaly available online:
+The related publications and presentations are also publicly available online:
 https://www.researchgate.net/project/Grid-Forming-Converter-Control-Design-Applications-in-Low-Inertia-Power-System
