@@ -11,7 +11,21 @@ IEEE_9_Bus_Test_System.slx contains the standard IEEE 9 bus test system implemen
 
 This source code is distributed in the hope that it will be useful, but without any warranty.
 
-We do request that publications in which this testbed is adopted, explicitly acknowledge that fact by citing the above mentioned paper.
+We do request that publications in which this testbed is adopted, explicitly acknowledge that fact by citing the above mentioned paper:
+
+@ARTICLE{TGAKD20,
+	author={A. {Tayyebi} and D. {Groß} and A. {Anta} and F. {Kupzog} and F. {Dörfler}},
+	journal=IEEE_J_ESTPE,
+	volume={8},  number={2},  pages={1004-1018},
+	title={Frequency Stability of Synchronous Machines and Grid-Forming Power Converters},
+	year={2020}}
+
+@misc{model,
+title={{G}rid{F}orming{C}onverters: Implementation of Grid-Forming Control Techniques in {IEEE} 9-Bus System},
+howpublished={Git repository},
+author={A.Tayyebi and D. Gro\ss and A. Anta},
+note = {https://github.com/ATayebi/GridFormingConverters},
+year={2019}}
 
 For further information do not hesitate to contact us: ali.tayyebi-khameneh@ait.ac.at
 
